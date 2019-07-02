@@ -1,17 +1,16 @@
-FROM microsoft/dotnet:sdk AS build-env
+FROM microsoft/dotnet:2.2-sdk AS build-env
 WORKDIR /app
-
+ 
 # Copy csproj and restore as distinct layers
 COPY *.csproj ./
 RUN dotnet restore
-
+ 
 # Copy everything else and build
 COPY . ./
 RUN dotnet publish -c Release -o out
-
+ 
 # Build runtime image
-FROM microsoft/dotnet:aspnetcore-runtime
+FROM microsoft/dotnet:2.2-aspnetcore-runtime
 WORKDIR /app
-COPY --from=build-env /app/out .
-ENTRYPOINT ["dotnet", "Web.Api.dll"]
-ENTRYPOINT [ "dotnet", "watch", "run", "--no-restore", "--urls", "http://199.217.117.36:4000"]
+COPY — from=build-env /app/out .
+CMD dotnet Web.Api.dll
