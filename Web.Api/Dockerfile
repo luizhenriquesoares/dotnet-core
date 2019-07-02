@@ -14,3 +14,4 @@ FROM microsoft/dotnet:aspnetcore-runtime
 WORKDIR /app
 COPY --from=build-env /app/out .
 ENTRYPOINT ["dotnet", "Web.Api.dll"]
+ENTRYPOINT [ "dotnet", "watch", "run", "--no-restore", "--urls", "http://199.217.117.36:4000"]

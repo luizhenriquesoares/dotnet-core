@@ -23,10 +23,11 @@
     "workingDirectory": "$(ProjectDir)",
     "commandLineArgs": "watch run",
     "launchBrowser": true,
-    "launchUrl": "http://localhost:4000/",
+    "launchUrl": "http://199.217.117.36:4000",
     "environmentVariables": {
       "ASPNETCORE_ENVIRONMENT": "Development",
-      "ASPNETCORE_HTTPS_PORT": "4000"
-    }
+      "DOTNET_USE_POLLING_FILE_WATCHER": "true"
+    },
+    "applicationUrl": "http://199.217.117.36:4000"
   }
 }
