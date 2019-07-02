@@ -1,0 +1,10 @@
+/bin
+/obj
+/Web.Api.csproj.user
+/.vscode
+/.vs
+
+./bin
+./obj
+./.vscode
+./.vs

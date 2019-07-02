@@ -1,0 +1,17 @@
+C:\htdocs\personal.projects\UnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\htdocs\personal.projects\UnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\htdocs\personal.projects\UnitTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\htdocs\personal.projects\UnitTest\bin\Debug\netcoreapp2.2\UnitTest.deps.json
+C:\htdocs\personal.projects\UnitTest\bin\Debug\netcoreapp2.2\UnitTest.runtimeconfig.json
+C:\htdocs\personal.projects\UnitTest\bin\Debug\netcoreapp2.2\UnitTest.runtimeconfig.dev.json
+C:\htdocs\personal.projects\UnitTest\bin\Debug\netcoreapp2.2\UnitTest.dll
+C:\htdocs\personal.projects\UnitTest\bin\Debug\netcoreapp2.2\UnitTest.pdb
+C:\htdocs\personal.projects\UnitTest\bin\Debug\netcoreapp2.2\Web.Api.dll
+C:\htdocs\personal.projects\UnitTest\bin\Debug\netcoreapp2.2\Web.Api.pdb
+C:\htdocs\personal.projects\UnitTest\obj\Debug\netcoreapp2.2\UnitTest.csprojAssemblyReference.cache
+C:\htdocs\personal.projects\UnitTest\obj\Debug\netcoreapp2.2\UnitTest.csproj.CoreCompileInputs.cache
+C:\htdocs\personal.projects\UnitTest\obj\Debug\netcoreapp2.2\UnitTest.AssemblyInfoInputs.cache
+C:\htdocs\personal.projects\UnitTest\obj\Debug\netcoreapp2.2\UnitTest.AssemblyInfo.cs
+C:\htdocs\personal.projects\UnitTest\obj\Debug\netcoreapp2.2\UnitTest.csproj.CopyComplete
+C:\htdocs\personal.projects\UnitTest\obj\Debug\netcoreapp2.2\UnitTest.dll
+C:\htdocs\personal.projects\UnitTest\obj\Debug\netcoreapp2.2\UnitTest.pdb
